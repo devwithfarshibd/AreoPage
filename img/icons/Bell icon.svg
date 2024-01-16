@@ -1,0 +1,13 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Bell icon">
+<g clip-path="url(#clip0_92_22)">
+<path id="Vector" d="M4.66665 5.70675C4.66665 4.60345 5.07247 3.54534 5.79483 2.76519C6.51719 1.98504 7.49693 1.54675 8.5185 1.54675C9.54007 1.54675 10.5198 1.98504 11.2422 2.76519C11.9645 3.54534 12.3704 4.60345 12.3704 5.70675C12.3704 10.5601 14.2963 11.9468 14.2963 11.9468H2.74072C2.74072 11.9468 4.66665 10.5601 4.66665 5.70675Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M7.42712 14.7201C7.53458 14.9312 7.69255 15.1072 7.88453 15.2298C8.0765 15.3524 8.29545 15.4171 8.51848 15.4171C8.74152 15.4171 8.96046 15.3524 9.15244 15.2298C9.34442 15.1072 9.50238 14.9312 9.60984 14.7201" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_92_22">
+<rect x="0.814819" y="0.160034" width="15.4074" height="16.64" rx="7.7037" fill="white"/>
+</clipPath>
+</defs>
+</svg>
