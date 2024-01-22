@@ -588,8 +588,9 @@ main.sponsor_section {
     font-size: 2rem;
     color: var(--para-color);
     line-height: 4rem;
-    text-align: center;
     width: 88rem;
+    margin: 0 auto;
+    text-align: center;
   }
   .blog_wrapper {
     margin-top: 3.7rem;
